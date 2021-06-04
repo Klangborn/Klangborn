@@ -1,5 +1,5 @@
-👋 Hi, I’m @Klangborn
-📫 Write me a message to get in contact: klangborn@pm.me
+👋 Hi, I’m @Klangborn <br>
+📫 Write me a message to get in contact: <br> klangborn@pm.me
 
 
 <!---
