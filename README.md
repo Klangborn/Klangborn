@@ -1,6 +1,4 @@
-👋 Hi, I’m @Klangborn <br>
-📫 Write me a message to get in contact: <br>   klangborn@pm.me
-
+👋 Hi, I’m @Klangborn
 
 <!---
 Klangborn/Klangborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
